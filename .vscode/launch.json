@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EDiaristaApplication<e-diarista>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ediarista.ediarista.EDiaristaApplication",
+            "projectName": "e-diarista",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
